@@ -1,6 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Pop-up from 'reactjs-popup';
+import 'reactjs-popup/dist/index.css';
 
+export default function PopupGfg(){
+  return()
+}
 function App() {
   return (
     <div className="
